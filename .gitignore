@@ -30,6 +30,7 @@
 *.exe
 *.out
 *.app
+olcEngine3D
 
 # vs code stuff
 .vscode/
